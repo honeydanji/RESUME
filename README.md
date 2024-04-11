@@ -7,11 +7,10 @@
 ## 사용 기술
 
 ### AI
-컴퓨터 비전 모델의 성능 지표를 분석 성능을 개선시킬 수 있는 기술을 가지고 있습니다.
+ML 파이프라인 설계 및 구축하는 기술을 가지고 있습니다. 
 - pytorch
 - onnxruntime
-- ultralytics - yolov8
-- Python - pandas/matplotlib
+- kubernetes - kubeflow
 
 ### Backend
 클라우드 기반 아키텍처를 설계하고 실제 서비스로 구현하는 기술을 가지고 있습니다.
