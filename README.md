@@ -24,33 +24,33 @@ API 서버를 Flask에서 FaskAPI로 마이그레이션 프로젝트
 ### 💸 <strong>Amazon EKS 기반 MLOps 인프라 비용 최적화 (2025.03 ~ 2025.04)</strong>
 Karpenter와 Knative를 이용한 서버 비용 최소화 프로젝트  
 <strong>기술</strong>: Amazon EKS, Kubernetes  
-- 워크로드 특성에 따라 동적 정적 노드그룹으로 분류하고, 유휴 상태인 서비스 파드를 제로 스케일 적용 및 이벤트 기반 노드 운영을 통해 서버 운영 비용 50~90% 절감하였습니다  
+  - 워크로드 특성에 따라 동적 정적 노드그룹으로 분류하고, 유휴 상태인 서비스 파드를 제로 스케일 적용 및 이벤트 기반 노드 운영을 통해 서버 운영 비용 50~90% 절감하였습니다  
+
 <strong>저장소 링크</strong>:  
-https://maroon-redcurrant-7c5.notion.site/PRO-Amazon-EKS-ML-
 
 ---
 
 ### 🛠️ <strong>아파트 하자 분류 AI 서비스 (2024.04 ~ 2025.03)</strong>
 아파트 하자 분류 AI 서비스 MLOps 인프라 구축 프로젝트  
 <strong>기술</strong>: Amazon EKS, Kubernetes, Kubeflow, Argo, Grafana  
-- SageMaker → KServe 마이그레이션으로 운영 비용 최소 50% 절감 및 aws 종속성 제거  
-- 추론 서버를 서버리스 형식 구축 및 운영을 통해 추론 비용 추가 절감  
-- Kubeflow 기반 ML 파이프라인 자동화 (데이터 수집, 전처리, 학습, 배포) 구축  
-- gitops + slack sdk를 활용해 실시간 대응 환경 구축  
+  - SageMaker → KServe 마이그레이션으로 운영 비용 최소 50% 절감 및 aws 종속성 제거  
+  - 추론 서버를 서버리스 형식 구축 및 운영을 통해 추론 비용 추가 절감  
+  - Kubeflow 기반 ML 파이프라인 자동화 (데이터 수집, 전처리, 학습, 배포) 구축  
+  - gitops + slack sdk를 활용해 실시간 대응 환경 구축  
+
 <strong>저장소 링크</strong>:  
-https://maroon-redcurrant-7c5.notion.site/PRO-Amazon-EKS-MLOps-1de393a5a7978061b68fd78fbb2b353b?pvs=4
 
 ---
 
 ### 🔍 <strong>다중 객체 이미지 판별 및 6D 포즈 추정 웹서비스 (2023.07 ~ 2023.08)</strong>
 다중 객체 이미지를 활용하여 객체의 포즈를 추정하는 솔루션 개발  
 <strong>기술</strong>: Java, Spring Boot, MySQL, PyTorch, OpenCV  
-- (주) 다래비젼에서 요구한 프로젝트에서 Back End와 팀장으로서 역할을 다했습니다  
-- 기업 측에서 과거에 진행했던 프로젝트였지만 현재 회사 내부적으로 여건이 안서 관련 프로젝트가 중단된 상태였습니다. 기업에서 요구한 사항은 단순히 6D Pose 값만 출력하는 것이었지만 웹서비스를 추가로 구현하였습니다  
-- 프로젝트에서는 SpringBoot를 활용하여 서버 API를 구성하고, 객체 식별 및 포즈 추출을 위해 Flask와 OpenCV, Yolov8를 이용해 API를 구축했습니다  
-- 최종적으로 기업 이사들 앞에서 발표를 진행했고, 예상했던 6D Pose 값만 보여준 게 아니라 객체의 6D를 추정하는 데 있어서 나오는 과정들을 웹서비스로 동적인 형태로 시각화해서 보여준 결과 긍정적인 피드백을 받았습니다  
+  - (주) 다래비젼에서 요구한 프로젝트에서 Back End와 팀장으로서 역할을 다했습니다  
+  - 기업 측에서 과거에 진행했던 프로젝트였지만 현재 회사 내부적으로 여건이 안서 관련 프로젝트가 중단된 상태였습니다. 기업에서 요구한 사항은 단순히 6D Pose 값만 출력하는 것이었지만 웹서비스를 추가로 구현하였습니다  
+  - 프로젝트에서는 SpringBoot를 활용하여 서버 API를 구성하고, 객체 식별 및 포즈 추출을 위해 Flask와 OpenCV, Yolov8를 이용해 API를 구축했습니다  
+  - 최종적으로 기업 이사들 앞에서 발표를 진행했고, 예상했던 6D Pose 값만 보여준 게 아니라 객체의 6D를 추정하는 데 있어서 나오는 과정들을 웹서비스로 동적인 형태로 시각화해서 보여준 결과 긍정적인 피드백을 받았습니다  
+
 <strong>저장소 링크</strong>:  
-https://github.com/honeydanji/Team_Project/tree/main
 
 </details>
 
