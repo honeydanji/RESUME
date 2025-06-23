@@ -4,7 +4,7 @@
 <summary><b><i>🐬 프로젝트 목록 보기</i></b></summary>
 <br>
 
-### 🎨 <strong>디자인 업무 자동화 (2025.05 ~ 진행중)</strong>
+### 🛠️ <strong>디자인 업무 자동화 (2025.05 ~ 진행중)</strong>
 Claude MCP와 Adobe를 활용한 디자인 업무 자동화 프로젝트  
 <strong>기술</strong>: Python, Adobe Photoshop  
 - Cluade MCP servcer를 구축해서 adobe photoshop에서 진행하는 디자인 업무를 자동화하였음  
@@ -12,7 +12,7 @@ Claude MCP와 Adobe를 활용한 디자인 업무 자동화 프로젝트
 
 ---
 
-### 🔁 <strong>서버 마이그레이션 (2025.04 ~ 2025.05)</strong>
+### 🛠️ <strong>서버 마이그레이션 (2025.04 ~ 2025.05)</strong>
 API 서버를 Flask에서 FaskAPI로 마이그레이션 프로젝트  
 <strong>기술</strong>: FastAPI  
 - 기존 프로젝트 안전성 확인을 위해 테스트 커버리지 0% → 85% 달성  
@@ -21,7 +21,7 @@ API 서버를 Flask에서 FaskAPI로 마이그레이션 프로젝트
 
 ---
 
-### 💸 <strong>Amazon EKS 기반 MLOps 인프라 비용 최적화 (2025.03 ~ 2025.04)</strong>
+### 🛠️ <strong>Amazon EKS 기반 MLOps 인프라 비용 최적화 (2025.03 ~ 2025.04)</strong>
 Karpenter와 Knative를 이용한 서버 비용 최소화 프로젝트  
 <strong>기술</strong>: Amazon EKS, Kubernetes  
   - 워크로드 특성에 따라 동적 정적 노드그룹으로 분류하고, 유휴 상태인 서비스 파드를 제로 스케일 적용 및 이벤트 기반 노드 운영을 통해 서버 운영 비용 50~90% 절감하였습니다  
@@ -42,7 +42,7 @@ Karpenter와 Knative를 이용한 서버 비용 최소화 프로젝트
 
 ---
 
-### 🔍 <strong>다중 객체 이미지 판별 및 6D 포즈 추정 웹서비스 (2023.07 ~ 2023.08)</strong>
+### 🛠️ <strong>다중 객체 이미지 판별 및 6D 포즈 추정 웹서비스 (2023.07 ~ 2023.08)</strong>
 다중 객체 이미지를 활용하여 객체의 포즈를 추정하는 솔루션 개발  
 <strong>기술</strong>: Java, Spring Boot, MySQL, PyTorch, OpenCV  
   - (주) 다래비젼에서 요구한 프로젝트에서 Back End와 팀장으로서 역할을 다했습니다  
@@ -57,7 +57,7 @@ Karpenter와 Knative를 이용한 서버 비용 최소화 프로젝트
 ---
 
 <details>
-<summary><b><i>🐬기타 경험 보기</i></b></summary>
+<summary><b><i>🐬etc...</i></b></summary>
 <br>
 
 - 💡 **AWS Chalice 배포 환경 변경**  
